@@ -45,9 +45,14 @@ const config = {
           },
         ],
       },
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Programming Projects, Inc. Built with Docusaurus.`,
+        copyright: `Check out our <a href="https://github.com/anonymouscoolguy/programmingprojects">GitHub</a> repository.`,
       },
       prism: {
         theme: prismThemes.github,
