@@ -5,4 +5,4 @@ slug: /
 
 # Intro
 
-Some content.
+Some content. Can I write text in *italic* and **bold**?
