@@ -1,0 +1,9 @@
+
+{
+    "label": "Math",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "This is a list of math-focused projects, ordered by difficulty."
+    }
+  }
