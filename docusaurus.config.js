@@ -12,6 +12,10 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  organizationName: 'anonymouscoolguy',
+  projectName: 'programmingprojects',
+  trailingSlash: false,
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
