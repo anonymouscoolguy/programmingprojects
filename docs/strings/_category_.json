@@ -1,9 +1,9 @@
 
 {
     "label": "Strings",
-    "position": 2,
+    "position": 3,
     "link": {
       "type": "generated-index",
-      "description": "This is a list of string-focused projects, organized by difficulty."
+      "description": "This is a list of string-focused projects, ordered by difficulty."
     }
   }
