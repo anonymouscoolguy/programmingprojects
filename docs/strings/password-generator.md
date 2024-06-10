@@ -22,7 +22,7 @@ After careful consideration and research you come up with a list of requirements
 - It should be equipped with basic error handling. *What happens if the user does not input what was expected?*
 
 ## Demo Example
-<AsciinemaWidget src="https://asciinema.org/a/CqssVysO4nivfjfThPXvwESBi.cast" rows={15} preload={true}/>
+<AsciinemaWidget src="https://asciinema.org/a/CqssVysO4nivfjfThPXvwESBi.cast" rows={15} preload={true} poster="npt:0:8"/>
 
 <div class="margin-top--md">
 :::note
