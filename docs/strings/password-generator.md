@@ -1,10 +1,15 @@
 ---
 sidebar_position: 1
+tags:
+    - easy
+    - strings
 ---
 
 import AsciinemaWidget from '@site/src/components/AsciinemaWidget';
 
 # Password Generator
+
+<span class="badge badge--success margin-bottom--sm">Beginner-friendly</span>
 
 After attending a cybersecurity seminar, you learned about the risks of reusing the same or similar-looking passwords across multiple platforms. To address this issue, you decided that using a password generator would be the best solution. However, because you don't completely trust online password generators, you chose to create your own software.
 
