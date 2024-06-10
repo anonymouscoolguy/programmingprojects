@@ -1,41 +1,24 @@
-# Website
+# ProgrammingProjects.org
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This is a *repository of programming projects*.
 
-### Installation
+This project aims to create a collection of programming projects, (ideally) complete with guidelines and walkthroughs. The idea is that individuals of various skill levels can use this repository to find practice projects and enhance their understanding of programming concepts.
 
+## Running a local copy
+
+You need `Node.js` installed in your system. If you don't have it, check the [official website](https://nodejs.org/en) for further instructions.
+
+```console
+git clone https://github.com/anonymouscoolguy/programmingprojects.git
 ```
-$ yarn
-```
+Then install all necessary dependencies,
 
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+```console
+npm install
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+And run the live development server,
 
-### Deployment
-
-Using SSH:
-
+```console
+npm run start
 ```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
