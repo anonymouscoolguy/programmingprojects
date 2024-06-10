@@ -52,7 +52,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Check out our <a href="https://github.com/anonymouscoolguy/programmingprojects">GitHub</a> repository.`,
+        copyright: `Check out our <a href="https://github.com/anonymouscoolguy/programmingprojects" target="_blank">GitHub</a> repository.`,
       },
       prism: {
         theme: prismThemes.github,
