@@ -48,7 +48,7 @@ $$
 
 <details>
 
-<summary>**Python**-specific hints/resources (including sample solution)</summary>
+<summary>**Python**-specific resources (including sample solution)</summary>
 
 If you are experiencing difficulties, consider taking a look at the [sample solution](https://github.com/anonymouscoolguy/programmingprojects-sample-solutions/blob/main/math/tip_calculator/python/tip_calculator.py).
 
