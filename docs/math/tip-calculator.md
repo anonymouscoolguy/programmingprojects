@@ -11,14 +11,14 @@ import AsciinemaWidget from '@site/src/components/AsciinemaWidget';
 
 <span class="badge badge--success margin-bottom--sm">Beginner-friendly</span>
 
-As per usual [Mr. Krabs](https://en.wikipedia.org/wiki/Eugene_Krabs) was thinking of new ways to maximize his profits and this time he wanted to implement a tip calculator for his restaurant, the only problem is that he does not have the technical capabilities to develop one, so he decided to to ask for help.
+As usual, [Mr. Krabs](https://en.wikipedia.org/wiki/Eugene_Krabs) is thinking of new ways to maximize his profits. This time, he wants to implement a tip calculator for his restaurant. However, he lacks the technical skills to develop one, so he has decided to ask for help.
 
 ## Features
 
 Mr. Krabs wants a very simple tip calculator that meets the following requirements:
 
 - Prompt the user for the meal price and tip as a percentage.
-- Output the receipt with **meal price**, **tip** and **total price in dollars**.
+- Output a receipt showing the **meal price**, **tip** and **total price in dollars**.
 
 ## Demo Example
 
